@@ -1,0 +1,17 @@
+{
+  "name": "gab",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/galand03/gab"
+    }
+  ]
+}
