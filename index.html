@@ -69,7 +69,7 @@
 						<li class="active"><a href="#" data-nav-section="home">Inicio</a></li>
 						<li><a href="#" data-nav-section="about">Quienes somos</a></li>
 						<li><a href="#" data-nav-section="practice-areas">Áreas de práctica</a></li>
-						li><a href="#" data-nav-section="our-team">Nuestro Equipo</a></li>
+						<li><a href="#" data-nav-section="our-team">Nuestro Equipo</a></li>
 						<li class="btn-cta"><a href="#" data-nav-section="contact"><span>Contacto</span></a></li>
 						<!-- For external page link -->
 						<!-- <li><a href="http://freehtml5.co/" class="external">External</a></li> -->
