@@ -69,7 +69,7 @@
 						<li class="active"><a href="#" data-nav-section="home">Inicio</a></li>
 						<li><a href="#" data-nav-section="about">Quienes somos</a></li>
 						<li><a href="#" data-nav-section="practice-areas">Áreas de práctica</a></li>
-						<li><a href="#" data-nav-section="our-team">Nuestro Equipo</a></li>
+						<!--li><a href="#" data-nav-section="our-team">Nuestro Equipo</a></li-->
 						<li class="btn-cta"><a href="#" data-nav-section="contact"><span>Contacto</span></a></li>
 						<!-- For external page link -->
 						<!-- <li><a href="http://freehtml5.co/" class="external">External</a></li> -->
@@ -142,6 +142,7 @@ Creemos firmemente en ejercer nuestra profesión con profesionalismo, seriedad y
 				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">
 					<h1>Áreas de prácticas</h1>
 					<p class="sub">Contamos con un equipo de trabajo multidisciplinario de primer nivel y gran experiencia profesional, dirigido por especialistas del rubro.</p>
+					<p class="sub">Nuestro lema es que “trabajando con seriedad, compromiso y excelencia profesional los resultados siempre serán positivos”</p>
 					<p class="subtle-text animate-box" data-animate-effect="fadeIn">Áreas de prácticas</span></p>
 				</div>
 			</div>
@@ -238,12 +239,12 @@ Mala Praxis médica: reclamos por lesiones o muerte derivados de la práctica m�
 		</div>
 	</section>
 
-	<section id="gtco-our-team" data-section="our-team">
+	<!--section id="gtco-our-team" data-section="our-team">
 		<div class="container">
 			<div class="row row-pb-md">
 				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">
 					<h1>Nuestro Equipo</h1>
-					<p class="sub">Nuestro lema es que “trabajando con seriedad, compromiso y excelencia profesional los resultados siempre serán positivos”</p>
+					<p class="sub"></p>
 					<p class="subtle-text animate-box" data-animate-effect="fadeIn">Our Team</p>
 				</div>
 			</div>
@@ -274,7 +275,7 @@ Mala Praxis médica: reclamos por lesiones o muerte derivados de la práctica m�
 			</div>
 
 		</div>
-	</section>
+	</section-->
 
 	<section id="gtco-contact" data-section="contact">
 		<div class="container">
