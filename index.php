@@ -141,8 +141,8 @@ Creemos firmemente en ejercer nuestra profesión con profesionalismo, seriedad y
 			<div class="row row-pb-md">
 				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">
 					<h1>Áreas de prácticas</h1>
-					<p class="sub">Contamos con un equipo de trabajo multidisciplinario de primer nivel y gran experiencia profesional, dirigido por especialistas del rubro.</p>
-					<p>Nuestro lema es que “trabajando con seriedad, compromiso y excelencia profesional los resultados siempre serán positivos”</p>
+					<p class="sub">Contamos con un equipo de trabajo multidisciplinario de primer nivel y gran experiencia profesional, dirigido por especialistas del rubro.
+					<br>Nuestro lema es que “trabajando con seriedad, compromiso y excelencia profesional los resultados siempre serán positivos”</p>
 					<p class="subtle-text animate-box" data-animate-effect="fadeIn">Áreas de prácticas</span></p>
 				</div>
 			</div>
