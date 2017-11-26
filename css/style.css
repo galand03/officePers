@@ -49,7 +49,7 @@ a {
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #f38181;
+  color: #ade762;
   outline: none;
   text-decoration: none;
 }
@@ -230,7 +230,7 @@ h1, h2, h3, h4, h5, h6, figure {
   border-radius: 30px;
 }
 .gtco-nav ul li.btn-cta a:hover span {
-  background: #f38181;
+  background: #ade762;
   color: #fff;
 }
 .gtco-nav ul li.active > a {
@@ -259,14 +259,14 @@ h1, h2, h3, h4, h5, h6, figure {
   color: black;
 }
 .gtco-nav.scrolled ul li.active > a {
-  color: #f38181 !important;
+  color: #ade762 !important;
 }
 .gtco-nav.scrolled ul li.btn-cta a {
   color: #fff;
 }
 .gtco-nav.scrolled ul li.btn-cta a span {
   border: none !important;
-  background: #f38181;
+  background: #ade762;
   padding: 4px 20px;
   color: #fff;
 }
@@ -419,7 +419,8 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 0;
   left: 0;
   right: 0;
-  background: rgba(35, 35, 35, 0.5);
+  /*background: rgba(35, 35, 35, 0.5);*/
+  background:hsla(0, 2%, 44%, 0.3);
 }
 .gtco-cover > .container {
   position: relative;
@@ -492,7 +493,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #gtco-about,
-#gtco-practice-areas,
+#gtco-metodologia,
 #gtco-our-team,
 #gtco-contact {
   padding: 7em 0;
@@ -501,7 +502,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 #gtco-about .img-shadow {
   position: relative;
-  background: #f38181;
+  background: #ade762;
   width: 100%;
   float: left;
 }
@@ -515,7 +516,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #gtco-about .heading .subtle-text {
   position: absolute;
-  bottom: -1.6em;
+  bottom: -1.3em;
   left: 0;
   text-transform: uppercase;
   font-size: 208px;
@@ -524,10 +525,10 @@ h1, h2, h3, h4, h5, h6, figure {
   z-index: -1;
 }
 
-#gtco-practice-areas .heading {
+#gtco-metodologia .heading {
   position: relative;
 }
-#gtco-practice-areas .heading .subtle-text {
+#gtco-metodologia .heading .subtle-text {
   position: absolute;
   bottom: -1.6em;
   left: 0;
@@ -538,26 +539,26 @@ h1, h2, h3, h4, h5, h6, figure {
   z-index: -1;
   line-height: 1;
 }
-#gtco-practice-areas .heading .subtle-text span {
+#gtco-metodologia .heading .subtle-text span {
   display: block;
 }
-#gtco-practice-areas .gtco-practice-area-item {
+#gtco-metodologia .gtco-practice-area-item {
   margin-bottom: 30px;
 }
-#gtco-practice-areas .gtco-practice-area-item .gtco-icon,
-#gtco-practice-areas .gtco-practice-area-item .gtco-copy {
+#gtco-metodologia .gtco-practice-area-item .gtco-icon,
+#gtco-metodologia .gtco-practice-area-item .gtco-copy {
   display: table-cell;
   vertical-align: top;
 }
-#gtco-practice-areas .gtco-practice-area-item .gtco-icon {
+#gtco-metodologia .gtco-practice-area-item .gtco-icon {
   width: 100px;
 }
 @media screen and (max-width: 768px) {
-  #gtco-practice-areas .gtco-practice-area-item .gtco-icon {
+  #gtco-metodologia .gtco-practice-area-item .gtco-icon {
     width: 70px;
   }
 }
-#gtco-practice-areas .gtco-practice-area-item .gtco-copy h3 {
+#gtco-metodologia .gtco-practice-area-item .gtco-copy h3 {
   margin-bottom: 15px;
   font-size: 24px;
 }
@@ -664,11 +665,11 @@ h1, h2, h3, h4, h5, h6, figure {
   position: absolute;
   width: 72px;
   height: 2px;
-  background: #f38181;
+  background: #ade762;
 }
 
 .heading-colored {
-  color: #f38181;
+  color: #ade762;
 }
 
 .read-more i {
@@ -700,7 +701,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #f38181;
+  color: #69c6b4;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -1116,13 +1117,13 @@ form label {
 }
 
 .btn-primary {
-  background: #f38181;
+  background: #8bde2f ;
   color: #fff;
-  border: 2px solid #f38181 !important;
+  border: 2px solid #8bde2f  !important;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #8bde2f !important;
-  border-color: #8bde2f !important;
+  background: #69c6b4 !important;
+  border-color: #69c6b4 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;

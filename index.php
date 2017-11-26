@@ -8,10 +8,10 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Estudio Jurídico B&M</title>
+	<title>Office Greensoft</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Estudio Jurídico B&M" />
-	<meta name="keywords" content="estudio juridico, abogado" />
+	<meta name="keywords" content="desarrollo web, disenio web, sistemas" />
 
 
   	<!-- Facebook and Twitter integration -->
@@ -62,45 +62,33 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-2 col-xs-12">
-					<div id="gtco-logo"><a href="index.html">B&M</a></div>
+					<div id="gtco-logo"><a href="index.php"><img src="images/2.png" style="width:285px;height:60px" /></a></div>
 				</div>
 				<div class="col-xs-10 text-right menu-1 main-nav">
 					<ul>
 						<li class="active"><a href="#" data-nav-section="home">Inicio</a></li>
 						<li><a href="#" data-nav-section="about">Quienes somos</a></li>
-						<li><a href="#" data-nav-section="practice-areas">Áreas de práctica</a></li>
-						<!--li><a href="#" data-nav-section="our-team">Nuestro Equipo</a></li-->
+						<li><a href="#" data-nav-section="metodologia">Metodolog&iacute;a</a></li>
+						<li><a href="#" data-nav-section="our-team">Equipo</a></li>
 						<li class="btn-cta"><a href="#" data-nav-section="contact"><span>Contacto</span></a></li>
 						<!-- For external page link -->
 						<!-- <li><a href="http://freehtml5.co/" class="external">External</a></li> -->
 					</ul>
 				</div>
-				<div class="col-md-12">
-					<!--p class="pull-left">
-						<small class="block">&copy; 2016 Free HTML5. All Rights Reserved.</small> 
-						<small class="block">Designed by <a href="http://freehtml5.co/" target="_blank">FreeHTML5.co</a> Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></small>
-					</p-->
-					<p class="pull-right">
-						</p><ul class="gtco-social-icons pull-right">
-							<li><a href="#"><i class="icon-twitter"></i></a></li>
-							<li><a href="#"><i class="icon-facebook"></i></a></li>
-							<li><a href="#"><i class="icon-linkedin"></i></a></li>
-						</ul>
-					<p></p>
-				</div>
+
 			</div>
 			
 		</div>
 	</nav>
 
-	<section id="gtco-hero" class="gtco-cover" style="background-image: url(images/img_bg_4.jpg);"  data-section="home"  data-stellar-background-ratio="0.5">
+	<section id="gtco-hero" class="gtco-cover" style="background-image: url(images/2.jpg);"  data-section="home"  data-stellar-background-ratio="0.5">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 col-md-offset-0 text-center">
 					<div class="display-t">
 						<div class="display-tc">
-							<h1 class="animate-box" data-animate-effect="fadeIn">Contamos con un equipo de trabajo multidisciplinario de primer nivel y gran experiencia profesional, dirigido por especialistas del rubro.</h1>
+							<h1 class="animate-box" data-animate-effect="fadeIn">Contamos con un equipo de trabajo creativo de primer nivel y gran experiencia profesional.</h1>
 							<!--p class="gtco-video-link animate-box" data-animate-effect="fadeIn"><a href="https://vimeo.com/channels/staffpicks/93951774" class="popup-vimeo"><i class="icon-controller-play"></i></a></p-->
 						</div>
 					</div>
@@ -113,22 +101,27 @@
 		<div class="container">
 			<div class="row row-pb-md">
 				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">
-					<h1>Bienvenido a nuestro Estudio</h1>
-					<p class="sub">En B&M Abogados buscamos brindar un servicio de excelencia profesional acorde a las expectativas de nuestros clientes, ofreciendo un asesoramiento personalizado en todas las áreas del derecho que permita conocer sus reales necesidades y satisfacerlas en tiempo oportuno. Se buscan para ello soluciones prácticas, viables y al menos costo posible,</p>
+					<h1>Bienvenido a nuestro estudio creativo</h1>
+					<p class="sub">En Office GreenSoft buscamos brindar un servicio de excelencia acorde a las expectativas de nuestros clientes, ofreciendo un analisis personalizado que permita conocer sus reales necesidades y satisfacerlas en tiempo oportuno. Se buscan para ello soluciones prácticas, viables y al menos costo posible.</p>
 					<p class="subtle-text animate-box" data-animate-effect="fadeIn">Bienvenido</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-6 col-md-pull-1 animate-box" data-animate-effect="fadeInLeft">
 					<div class="img-shadow">
-						<img src="images/img_1.jpg" class="img-responsive" alt="B&M Abogados">
+						<img src="images/img_1.jpg" class="img-responsive" alt="Office GreenSoft">
 					</div>
 				</div>
 				<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 					<h2 class="heading-colored">Excelencia y honestidad</h2>
-					<p>Nuestro compromiso consiste desarrollar relaciones a largo plazo, buscando soluciones legales costo-eficientes para nuestros clientes destinados a alcanzar un alto nivel de eficacia en la prestación de servicios jurídicos y ofreciendo una periódica y completa información  del estado de sus asuntos. Para ello consideramos esencial el desarrollo humano y profesional permanente de nuestro equipo, la actualización constante de los recursos tecnológicos y la mejora continua de los procesos.
+					<p>Somos un grupo de entusiastas por la tecnologia, enfocados en los desafios y en la responsabilidad. 
+					Nuestro compromiso consiste desarrollar relaciones a largo plazo, buscando soluciones costo-eficientes para nuestros clientes destinados a 
+					alcanzar un alto nivel de eficacia en los procesos y ofreciendo una periódica y completa información  del estado de sus funcionalidades. Para ello 
+					consideramos esencial el desarrollo humano y profesional permanente de nuestro equipo, la actualización constante de los recursos tecnológicos y la 
+					mejora continua de los procesos.
 
-Creemos firmemente en ejercer nuestra profesión con profesionalismo, seriedad y creatividad, dentro del marco de las normas vigentes y de los estrictos parámetros de ética que rigen nuestra conducta.
+					Creemos firmemente en ejercer nuestra profesión con profesionalismo, seriedad y creatividad, dentro del marco de las normas vigentes y de los 
+					estrictos parámetros de ética que rigen nuestra conducta.
 
 					<!--p><a href="#" class="read-more">Read more <i class="icon-chevron-right"></i></a></p-->
 				</div>
@@ -136,119 +129,86 @@ Creemos firmemente en ejercer nuestra profesión con profesionalismo, seriedad y
 		</div>
 	</section>
 
-	<section id="gtco-practice-areas" data-section="practice-areas">
+	<section id="gtco-metodologia" style="background-image: url(images/png.png);"  data-section="metodologia"  data-stellar-background-ratio="0.5">
 		<div class="container">
 			<div class="row row-pb-md">
 				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">
-					<h1>Áreas de prácticas</h1>
+					<h1>Metodologia</h1>
 					<p class="sub">Contamos con un equipo de trabajo multidisciplinario de primer nivel y gran experiencia profesional, dirigido por especialistas del rubro.
 					<br>Nuestro lema es que “trabajando con seriedad, compromiso y excelencia profesional los resultados siempre serán positivos”</p>
-					<p class="subtle-text animate-box" data-animate-effect="fadeIn">Áreas de prácticas</span></p>
+					<!--p class="subtle-text animate-box" data-animate-effect="fadeIn">Áreas de prácticas</span></p-->
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-6">
+
+
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
-							<img src="images/scale.png" alt="B&M Abogados">
+							<img src="images/scale.png" alt="Office GreenSoft">
 						</div>
 						<div class="gtco-copy">
-							<h3>Derecho Civil</h3>
-							<p>Automotores: Accidentes de tránsito, Lesiones, Muertes, Reclamos por destrucción total, Todo riesgo, Incendio, Robos Totales, Robos Aparecidos.
-Riesgos varios: Accidentes en locales, en la vía pública, en ascensores, en colegios, en predios comerciales, etc.
-Mala Praxis médica: reclamos por lesiones o muerte derivados de la práctica médica.
-</p>
+							<h3>Analisis funcional</h3>
+							<p>Reuniones periodicas relevando la necesidad del cliente.</p>
 						</div>
 					</div>
 
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
-							<img src="images/scale.png" alt="B&M Abogados">
+							<img src="images/scale.png" alt="Office GreenSoft">
 						</div>
 						<div class="gtco-copy">
-							<h3>Derecho Laboral</h3>
-							<p>Despidos, Accidentes de trabajo, Enfermedades Profesionales, Trabajo en negro.</p>
+							<h3>Avance / Entregables</h3>
+							<p>Nuestra principal prioridad es satisfacer al cliente a través de la entrega temprana y continua de software con valor..</p>
 						</div>
 					</div>
-
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
-							<img src="images/scale.png" alt="B&M Abogados">
+							<img src="images/scale.png" alt="Office GreenSoft">
 						</div>
 						<div class="gtco-copy">
-							<h3>Derecho de Familia</h3>
-							<p>Divorcio, Divorcio Express, Acuerdos prenupciales, Régimen de Visitas, Alimentos, Tenencias, Guardas, Autorizaciones para viajar fuera del país.</p>
+							<h3>Interaccion con el cliente</h3>
+							<p>Debe generarse un circulo de comunicacion clara y de respeto, para poder obtener mayores beneficios en la extraccion de informacion.</p>
 						</div>
 					</div>
-
 				</div>
 				<div class="col-md-6">
 					
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
-							<img src="images/scale.png" alt="B&M Abogados">
+							<img src="images/scale.png" alt="Office GreenSoft">
 						</div>
 						<div class="gtco-copy">
-							<h3>Defensa del consumidor</h3>
-							<p>Reclamos por indemnizaciones o Reposición de cosas o Restitución de servicios, Asistencia a audiencias, Elaboración de acuerdos.</p>
+							<h3>Testing</h3>
+							<p>A traves de los avances periodicos, surge interaccion con el sistemas y los usuarios por lo que se detectan los errores de forma temprana.</p>
 						</div>
 					</div>
 
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
-							<img src="images/scale.png" alt="B&M Abogados">
+							<img src="images/scale.png" alt="Office GreenSoft">
 						</div>
 						<div class="gtco-copy">
-							<h3>Contratos</h3>
-							<p>Compraventa, Alquiler, Contratos de Consumo, Locaciones de Servicios. </p>
+							<h3>Resultados finales</h3>
+							<p>Software funcionando, con el entorno y el apoyo que necesiten para la ejecucion del trabajo. </p>
 						</div>
 					</div>
-
-					<div class="gtco-practice-area-item animate-box">
-						<div class="gtco-icon">
-							<img src="images/scale.png" alt="B&M Abogados">
-						</div>
-						<div class="gtco-copy">
-							<h3>Derecho Sucesorio</h3>
-							<p>Testamentos, Herencias, Declaratoria de herederos, Sucesiones.</p>
-						</div>
-					</div>
-
-					<div class="gtco-practice-area-item animate-box">
-						<div class="gtco-icon">
-							<img src="images/scale.png" alt="B&M Abogados">
-						</div>
-						<div class="gtco-copy">
-							<h3>Derecho de Tránsito</h3>
-							<p>Multas, Faltas administrativas, Descargos administrativos. Trámites ante el registro automotor. </p>
-						</div>
-					</div>
-
-					<div class="gtco-practice-area-item animate-box">
-						<div class="gtco-icon">
-							<img src="images/scale.png" alt="B&M Abogados">
-						</div>
-						<div class="gtco-copy">
-							<h3>Derecho comercial</h3>
-							<p>Ejecuciones, Embargos, Deudas de expensas, Cobro de créditos.</p>
-						</div>
-					</div>
-
 				</div>
+
 			</div>
 		</div>
 	</section>
 
-	<!--section id="gtco-our-team" data-section="our-team">
+	<section id="gtco-our-team" data-section="our-team">
 		<div class="container">
-			<div class="row row-pb-md">
+			<div>
 				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">
 					<h1>Nuestro Equipo</h1>
 					<p class="sub"></p>
-					<p class="subtle-text animate-box" data-animate-effect="fadeIn">Our Team</p>
+					<p class="subtle-text animate-box" data-animate-effect="fadeIn">Equipo</p>
 				</div>
 			</div>
-			<div class="row team-item gtco-team-reverse">
+			<!--div class="row team-item gtco-team-reverse">
 				<div class="col-md-6 col-md-push-7 animate-box" data-animate-effect="fadeInRight">
 					<div class="img-shadow">
 						<img src="images/img_team_1.jpg" class="img-responsive" alt="B&M Abogados">
@@ -272,10 +232,24 @@ Mala Praxis médica: reclamos por lesiones o muerte derivados de la práctica m�
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus aliquid maiores, voluptatum ex. Accusantium, eum distinctio laudantium. Perferendis dolor, corporis quasi? Tempore quod molestiae quis cumque pariatur dolore vel sit, fugit delectus quasi reprehenderit officia voluptate incidunt, culpa odit impedit qui dolorum fugiat. Quidem possimus reprehenderit, quae recusandae voluptatibus magnam!</p>
 					<p>Ratione facilis quod laborum eaque illo dolore blanditiis nobis dicta voluptatem fugit optio, eveniet non dolor quia delectus, sint, dignissimos atque porro consequuntur unde. Soluta ex necessitatibus delectus saepe aliquam, culpa officiis doloremque, ipsa facere hic, voluptatem accusantium veniam, quasi! Explicabo accusantium sint, corporis consequuntur fugit ipsam, dolorum excepturi adipisci.</p>
 				</div>
+			</div-->
+			<div class="row">
+				<div class="col-md-6" style="text-align:center">
+								 <img src="images/andres.png">
+								 <h3>Andrés Galarza</h3>
+								 <h4>Director UX Specialist. Back-End</h4>
+								 <p>@andres</p>
+				</div>
+								<div class="col-md-6" style="text-align:center">
+								<img src="images/lau.png">
+							 	<h3>Laura Medina</h3>
+							 	<h4>Art. UI Design. Markup.</h4>
+							 	<p>@laura</p>
+				</div>
 			</div>
 
 		</div>
-	</section-->
+	</section>
 
 	<section id="gtco-contact" data-section="contact">
 		<div class="container">
