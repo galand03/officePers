@@ -10,7 +10,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Office Greensoft</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Estudio Jurídico B&M" />
+	<meta name="description" content="Office Greensoft" />
 	<meta name="keywords" content="desarrollo web, disenio web, sistemas" />
 
 
@@ -67,7 +67,7 @@
 				<div class="col-xs-10 text-right menu-1 main-nav">
 					<ul>
 						<li class="active"><a href="#" data-nav-section="home">Inicio</a></li>
-						<li><a href="#" data-nav-section="about">Quienes somos</a></li>
+						<li><a href="#" data-nav-section="about">Qui&eacute;nes somos</a></li>
 						<li><a href="#" data-nav-section="metodologia">Metodolog&iacute;a</a></li>
 						<li><a href="#" data-nav-section="our-team">Equipo</a></li>
 						<li class="btn-cta"><a href="#" data-nav-section="contact"><span>Contacto</span></a></li>
@@ -88,7 +88,8 @@
 				<div class="col-md-12 col-md-offset-0 text-center">
 					<div class="display-t">
 						<div class="display-tc">
-							<h1 class="animate-box" data-animate-effect="fadeIn">Contamos con un equipo de trabajo creativo de primer nivel y gran experiencia profesional.</h1>
+							<h1 class="animate-box" data-animate-effect="fadeIn">Contamos con un equipo de trabajo creativo de primer nivel y gran experiencia 
+							profesional.</h1>
 							<!--p class="gtco-video-link animate-box" data-animate-effect="fadeIn"><a href="https://vimeo.com/channels/staffpicks/93951774" class="popup-vimeo"><i class="icon-controller-play"></i></a></p-->
 						</div>
 					</div>
@@ -102,7 +103,9 @@
 			<div class="row row-pb-md">
 				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">
 					<h1>Bienvenido a nuestro estudio creativo</h1>
-					<p class="sub">En Office GreenSoft buscamos brindar un servicio de excelencia acorde a las expectativas de nuestros clientes, ofreciendo un analisis personalizado que permita conocer sus reales necesidades y satisfacerlas en tiempo oportuno. Se buscan para ello soluciones prácticas, viables y al menos costo posible.</p>
+					<p class="sub">En Office GreenSoft buscamos brindar un servicio de excelencia acorde a las expectativas de nuestros clientes, ofreciendo un 
+					analisis personalizado que permita conocer sus reales necesidades y satisfacerlas en tiempo oportuno. Se buscan para ello soluciones prácticas, 
+					viables y al menor costo posible.</p>
 					<p class="subtle-text animate-box" data-animate-effect="fadeIn">Bienvenido</p>
 				</div>
 			</div>
@@ -114,14 +117,11 @@
 				</div>
 				<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 					<h2 class="heading-colored">Excelencia y honestidad</h2>
-					<p>Somos un grupo de entusiastas por la tecnologia, enfocados en los desafios y en la responsabilidad. 
+					<p>Somos un grupo de entusiastas por la tecnolog&iacute;a, enfocados en los desafios y en la responsabilidad. 
 					Nuestro compromiso consiste desarrollar relaciones a largo plazo, buscando soluciones costo-eficientes para nuestros clientes destinados a 
 					alcanzar un alto nivel de eficacia en los procesos y ofreciendo una periódica y completa información  del estado de sus funcionalidades. Para ello 
 					consideramos esencial el desarrollo humano y profesional permanente de nuestro equipo, la actualización constante de los recursos tecnológicos y la 
 					mejora continua de los procesos.
-
-					Creemos firmemente en ejercer nuestra profesión con profesionalismo, seriedad y creatividad, dentro del marco de las normas vigentes y de los 
-					estrictos parámetros de ética que rigen nuestra conducta.
 
 					<!--p><a href="#" class="read-more">Read more <i class="icon-chevron-right"></i></a></p-->
 				</div>
@@ -133,10 +133,8 @@
 		<div class="container">
 			<div class="row row-pb-md">
 				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">
-					<h1>Metodologia</h1>
-					<p class="sub">Contamos con un equipo de trabajo multidisciplinario de primer nivel y gran experiencia profesional, dirigido por especialistas del rubro.
-					<br>Nuestro lema es que “trabajando con seriedad, compromiso y excelencia profesional los resultados siempre serán positivos”</p>
-					<!--p class="subtle-text animate-box" data-animate-effect="fadeIn">Áreas de prácticas</span></p-->
+					<h1>Metodolog&iacute;a</h1>
+
 				</div>
 			</div>
 			<div class="row">
@@ -145,7 +143,7 @@
 
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
-							<img src="images/scale.png" alt="Office GreenSoft">
+							<img src="images/funcional.png" style="width:43px; height=43px" alt="Office GreenSoft">
 						</div>
 						<div class="gtco-copy">
 							<h3>Analisis funcional</h3>
@@ -155,20 +153,20 @@
 
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
-							<img src="images/scale.png" alt="Office GreenSoft">
+							<img src="images/entregable.png" style="width:43px; height=43px"  alt="Office GreenSoft">
 						</div>
 						<div class="gtco-copy">
 							<h3>Avance / Entregables</h3>
-							<p>Nuestra principal prioridad es satisfacer al cliente a través de la entrega temprana y continua de software con valor..</p>
+							<p>Nuestra principal prioridad es satisfacerlos a través de la entrega temprana y continua de software con valor.</p>
 						</div>
 					</div>
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
-							<img src="images/scale.png" alt="Office GreenSoft">
+							<img src="images/interaccion.png" style="width:43px; height=43px"  alt="Office GreenSoft">
 						</div>
 						<div class="gtco-copy">
-							<h3>Interaccion con el cliente</h3>
-							<p>Debe generarse un circulo de comunicacion clara y de respeto, para poder obtener mayores beneficios en la extraccion de informacion.</p>
+							<h3>Interacci&oacute;n con el cliente</h3>
+							<p>Debe generarse un c&iacute;rculo de comunicaci&oacute;n clara y de respeto, para poder obtener mayores beneficios en la extracci&oacute;n de informaci&oacute;n.</p>
 						</div>
 					</div>
 				</div>
@@ -176,21 +174,21 @@
 					
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
-							<img src="images/scale.png" alt="Office GreenSoft">
+							<img src="images/testing.png" style="width:43px; height=43px"  alt="Office GreenSoft">
 						</div>
 						<div class="gtco-copy">
 							<h3>Testing</h3>
-							<p>A traves de los avances periodicos, surge interaccion con el sistemas y los usuarios por lo que se detectan los errores de forma temprana.</p>
+							<p>A trav&eacute;s de los avances peri&oacute;dicos, surge interacci&oacute;n con el sistemas y los usuarios por lo que se detectan los errores de forma inmediata.</p>
 						</div>
 					</div>
 
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
-							<img src="images/scale.png" alt="Office GreenSoft">
+							<img src="images/desa.png" style="width:43px; height=43px"  alt="Office GreenSoft">
 						</div>
 						<div class="gtco-copy">
 							<h3>Resultados finales</h3>
-							<p>Software funcionando, con el entorno y el apoyo que necesiten para la ejecucion del trabajo. </p>
+							<p>Software funcionando, con el entorno y el apoyo que necesiten para la ejecuci&oacute;n del trabajo. </p>
 						</div>
 					</div>
 				</div>
@@ -235,16 +233,16 @@
 			</div-->
 			<div class="row">
 				<div class="col-md-6" style="text-align:center">
-								 <img src="images/andres.png">
-								 <h3>Andrés Galarza</h3>
-								 <h4>Director UX Specialist. Back-End</h4>
-								 <p>@andres</p>
+								 <img src="images/andres.png" style="padding-bottom: 30px;">
+								 <h3 style="line-height:0">Andrés Galarza</h3>
+								 <h4 style="line-height:0">Director UX Specialist. Back-End</h4>
+								 <p style="line-height:0">@andres</p>
 				</div>
 								<div class="col-md-6" style="text-align:center">
-								<img src="images/lau.png">
-							 	<h3>Laura Medina</h3>
-							 	<h4>Art. UI Design. Markup.</h4>
-							 	<p>@laura</p>
+								<img src="images/lau.png" style="padding-bottom: 30px;">
+							 	<h3 style="line-height:0">Laura Medina</h3>
+							 	<h4 style="line-height:0">Art. UI Design. Markup.</h4>
+							 	<p style="line-height:0">@laura</p>
 				</div>
 			</div>
 
@@ -253,10 +251,10 @@
 
 	<section id="gtco-contact" data-section="contact">
 		<div class="container">
-			<div class="row row-pb-md">
+			<div class="row row-pb-md" style="padding-bottom:0px !important">
 				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">
 					<h1>Contáctenos</h1>
-					<p class="sub">Póngase en contacto con nosotros!</p>
+					<p class="sub" style="border-color:#69c6b4">Póngase en contacto con nosotros!</p>
 					<p class="subtle-text animate-box" data-animate-effect="fadeIn">Contactenos</p>
 				</div>
 			</div>
@@ -283,10 +281,9 @@
 				<div class="col-md-4 col-md-pull-6 animate-box">
 					<div class="gtco-contact-info">
 						<ul>
-							<li class="address">Calle numero</li>
-							<li class="phone"><a href="tel://1235235598">+ 1235 2355 98</a></li>
-							<li class="email"><a href="mailto:info@yoursite.com">info@example.com</a></li>
-							<li class="url"><a href="#">http://example.com</a></li>
+							<li class="phone"><a href="tel://5491166110075">+54 9 11 6611 0075 / +54 9 11 6758 9531</a></li>
+							<li class="email"><a href="mailto:officegreensoft@gmail.com">officegreensoft@gmail.com</a></li>
+							<li class="url"><a href="#">https://officegreensoft.herokuapp.com</a></li>
 						</ul>
 					</div>
 				</div>
@@ -304,10 +301,9 @@
 						<small class="block">Designed by <a href="http://freehtml5.co/" target="_blank">FreeHTML5.co</a> Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></small>
 					</p-->
 					<p class="pull-right">
-						<ul class="gtco-social-icons pull-right">
-							<li><a href="#"><i class="icon-twitter"></i></a></li>
-							<li><a href="#"><i class="icon-facebook"></i></a></li>
-							<li><a href="#"><i class="icon-linkedin"></i></a></li>
+						<ul class="gtco-social-icons pull-right" style="margin-right: 50px;">
+							<li><a href="https://twitter.com/officegreensoft" target="_blank"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/Office-GreenSoft-102208076585849/" target="_blank"><i class="icon-facebook"></i></a></li>
 						</ul>
 					</p>
 				</div>

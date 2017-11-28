@@ -43,7 +43,7 @@ body {
 }
 
 a {
-  color: #f38181;
+  color: #ade762;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -727,7 +727,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .gtco-contact-info ul li:before {
-  color: #f38181;
+  color: #ade762;
   position: absolute;
   left: 0;
   top: .05em;
