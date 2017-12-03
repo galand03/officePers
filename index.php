@@ -46,6 +46,8 @@
 
 	<!-- Modernizr JS -->
 	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
 	<!-- FOR IE9 below -->
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
@@ -234,7 +236,7 @@
 	</section>
 
 	<section id="gtco-our-team" data-section="our-team">
-		<div class="container">
+		<div class="container" style="padding-bottom: 50px;">
 			<div>
 				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">
 					<h1>Nuestro Equipo</h1>
@@ -243,21 +245,52 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-6" style="text-align:center">
-								 <img src="images/andres.png" style="padding-bottom: 30px;    width: 100%;">
-								 <h3 style="line-height:0">Andrés Galarza</h3>
-								 <h4 style="line-height:0">Director UX Specialist. Back-End</h4>
-								 <p style="line-height:0">@andres</p>
-				</div>
-								<div class="col-md-6" style="text-align:center">
-								<img src="images/lau.png" style="padding-bottom: 30px;    width: 100%;">
-							 	<h3 style="line-height:0">Laura Medina</h3>
-							 	<h4 style="line-height:0">Art. UI Design. Markup.</h4>
-							 	<p style="line-height:0">@laura</p>
-				</div>
-			</div>
+				<div class="col-md-3" style="text-align:center">
 
+				</div>
+				<div class="col-md-3" style="text-align:center">
+					 <img src="images/andres.png" style="padding-bottom: 30px;    width: 100%;">
+					 <h3 style="line-height:0">Andrés Galarza</h3>
+					 <h4 style="line-height:0">Director UX. Back-End</h4>
+					 <p style="line-height:0">@andres</p>
+				</div>
+				<div class="col-md-3" style="text-align:center">
+					<img src="images/lau.png" style="padding-bottom: 30px;    width: 100%;">
+				 	<h3 style="line-height:0">Laura Medina</h3>
+				 	<h4 style="line-height:0">Analista Funcional. QA</h4>
+				 	<p style="line-height:0">@laura</p>
+				</div>
+				<div class="col-md-3" style="text-align:center">
+
+				</div>				
+			</div>
 		</div>
+					<!--text-slider-->
+			
+			<div class="wmuSlider example1">
+			 	<div class="wrap">
+				   <article style="position: absolute; width:64%; opacity: 0;"> 
+					   	
+						<div class="cont span_2_of_3">
+						    <h4>Inspiración</h4>
+							<p>La creatividad y la simplificación se complementan enormemente. Es preciso hallar nuevas formas alternativas de hacer las cosas. Este pensamiento de diseño exige creatividad.</p>
+						  	<span><a href="#">Bono</a></span>			 
+						</div>
+					</article>
+					 <article style="position: absolute; width:64%; opacity: 0;"> 
+					   	<div class="cont span_2_of_3">
+							    <h4>Inspiración</h4>
+							    <p>Hay una fuerza motriz más poderosa que el vapor, la electricidad y la energía atómica: la voluntad.</p>
+							   <span><a href="#">Einstein</a></span>
+						</div>
+					 </article> 	
+					                   <script src="js/jquery.wmuSlider.js"></script> 
+					<script>
+       				     $('.example1').wmuSlider();         
+   					</script> 	           	      
+		         </div>
+		    </div>
+			<!--text-slider-->
 	</section>
 
 	<section id="gtco-contact" data-section="contact">
@@ -328,8 +361,7 @@
 		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
 	</div>
 	
-	<!-- jQuery -->
-	<script src="js/jquery.min.js"></script>
+
 	<!-- jQuery Easing -->
 	<script src="js/jquery.easing.1.3.js"></script>
 	<!-- Bootstrap -->

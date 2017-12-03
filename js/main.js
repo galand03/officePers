@@ -336,6 +336,8 @@ $(document).ready(function() {
     $('#Carousel').carousel({
         interval: 5000
     })
+
+    //$('.example1').wmuSlider(); 
 });
 
 }());

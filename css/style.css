@@ -1299,8 +1299,8 @@ form label {
 
 .tecnologia{
 
-  width: 180px;
-  height: 180px;
+  width: 130px;
+  height: 130px;
 }
 
 .carousel {
@@ -1315,7 +1315,7 @@ form label {
     background: none repeat scroll 0 0 #222222;
     border: 4px solid #FFFFFF;
     border-radius: 23px 23px 23px 23px;
-    margin-top: 80px;
+    margin-top: 50px;
 }
 .carousel-control.right {
   right: -12px;
@@ -1346,3 +1346,100 @@ a.thumbnail:focus, a.thumbnail.active{
   border-color:transparent  !important;
 }
 /*# sourceMappingURL=style.css.map */
+/***********star-text-slider********/
+article > div {
+  text-align: center;
+}
+.wmuSlider {
+  position: relative;
+  overflow: hidden;
+  min-height: 495px;
+  text-align: center;
+  background: #faf104;
+}
+.wmuSlider .wmuSliderWrapper article {
+  position: relative;
+  text-align: center;
+}
+.wmuGallery .wmuGalleryImage {
+  position: relative;
+  text-align: center;
+}
+.wmuGallery .wmuGalleryImage img {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+}
+/* Default Skin */
+.wmuGallery .wmuGalleryImage {
+  margin-bottom: 10px;
+}
+.wmuSliderPrev {
+  background-position: 19px 9px;
+  left: 40px;
+}
+.wmuSliderPrev, .wmuSliderNext {      
+  position: absolute;
+  width: 25px;
+  height: 35px;
+  text-indent: -9999px;
+  background: url(../images/text_img.png) no-repeat;
+  top:47%;
+  z-index: 2;
+  cursor: pointer;
+}
+.wmuSliderPrev {
+  background-position: -3px 3px;
+  left: 143px;
+}
+.wmuSliderNext {
+  background-position: -23px 3px;
+  right: 149px;
+
+}
+article  h4{
+  color:#585C67;
+  font-size:2.7em;
+  text-align:center;
+  padding:3em 0 0 0;
+  font-family : 'Open Sans', sans-serif;
+}
+article > div > p {
+  width:64%;
+  color:#585C67;
+  font-size:1.2em;
+  text-align: center;
+  padding: 2em 0 0 0;
+  font-family : 'Open Sans', sans-serif;
+  margin:0 auto;
+}
+article> div > span{
+  text-align: center;
+  padding: 1em 0 0 0;
+  display:block;
+}
+ article> div > span > a {
+  color:#585C67;
+  cursor: pointer;
+  font-size:1.2em;
+}
+article> div > span > a:hover{
+color:#C0B9CD;
+}
+/*************end-slider**********/
+@media only screen and (max-width: 1280px){
+  .wrap {
+      width: 85%;
+  }
+}
+@media only screen and (max-width: 1366px){
+
+  .wrap {
+      width: 85%;
+  }
+
+  .wrap {
+      margin: 0 auto;
+      width: 80%;
+  }
+}
