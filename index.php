@@ -38,10 +38,9 @@
 	<!-- Magnific Popup -->
 	<link rel="stylesheet" href="css/magnific-popup.css">
 	<!-- Owl Carousel  -->
-	<link rel="stylesheet" href="css/owl.carousel.min.css">
 	<link rel="stylesheet" href="css/owl.theme.default.min.css">
-	<!-- Flexslider -->
-	<link rel="stylesheet" href="css/flexslider.css">
+
+
 	<!-- Theme style  -->
 	<link rel="stylesheet" href="css/style.css">
 
@@ -194,6 +193,43 @@
 				</div>
 
 			</div>
+
+			<div class="container">
+    			<div class="row">
+					<div class="col-md-12">
+		                <div id="Carousel" class="carousel slide">
+
+		                 
+		                <!-- Carousel items -->
+		                <div class="carousel-inner">
+		                    
+		                <div class="item active">
+		                	<div class="row">
+		                	  <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/net1.png" class="tecnologia"></a></div>
+		                	  <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/sqlserver1.png" class="tecnologia"></a></div>
+		                	  <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/angular1.png" class="tecnologia"></a></div>
+		                	  <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/css1.png" class="tecnologia"></a></div>
+		                	</div><!--.row-->
+		                </div><!--.item-->
+		                 
+		                <div class="item">
+		                	<div class="row">
+		                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="images/php1.png" class="tecnologia"></a></div>
+		                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="images/mysql1.png" class="tecnologia"></a></div>
+		                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="images/wordpress1.png" class="tecnologia"></a></div>
+		                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="images/prestashop1.png" class="tecnologia"></a></div>
+		                	</div><!--.row-->
+		                </div><!--.item-->
+		                 
+		                 
+		                </div><!--.carousel-inner-->
+		                  <a data-slide="prev" href="#Carousel" class="left carousel-control">‹</a>
+		                  <a data-slide="next" href="#Carousel" class="right carousel-control">›</a>
+		                </div><!--.Carousel-->
+			                 
+					</div>
+				</div>
+			</div><!--.container-->			
 		</div>
 	</section>
 
@@ -206,40 +242,15 @@
 					<p class="subtle-text animate-box" data-animate-effect="fadeIn">Equipo</p>
 				</div>
 			</div>
-			<!--div class="row team-item gtco-team-reverse">
-				<div class="col-md-6 col-md-push-7 animate-box" data-animate-effect="fadeInRight">
-					<div class="img-shadow">
-						<img src="images/img_team_1.jpg" class="img-responsive" alt="B&M Abogados">
-					</div>
-				</div>
-				<div class="col-md-6  col-md-pull-6 animate-box" data-animate-effect="fadeInRight">
-					<h2>Gabriela Medina</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus aliquid maiores, voluptatum ex. Accusantium, eum distinctio laudantium. Perferendis dolor, corporis quasi? Tempore quod molestiae quis cumque pariatur dolore vel sit, fugit delectus quasi reprehenderit officia voluptate incidunt, culpa odit impedit qui dolorum fugiat. Quidem possimus reprehenderit, quae recusandae voluptatibus magnam!</p>
-					<p>Ratione facilis quod laborum eaque illo dolore blanditiis nobis dicta voluptatem fugit optio, eveniet non dolor quia delectus, sint, dignissimos atque porro consequuntur unde. Soluta ex necessitatibus delectus saepe aliquam, culpa officiis doloremque, ipsa facere hic, voluptatem accusantium veniam, quasi! Explicabo accusantium sint, corporis consequuntur fugit ipsam, dolorum excepturi adipisci.</p>
-				</div>
-			</div>
-
-			<div class="row team-item gtco-team">
-				<div class="col-md-6 col-md-pull-1 animate-box"  data-animate-effect="fadeInLeft">
-					<div class="img-shadow">
-						<img src="images/img_team_2.jpg" class="img-responsive" alt="B&M Abogados">
-					</div>
-				</div>
-				<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-					<h2>Jesica Bellido</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus aliquid maiores, voluptatum ex. Accusantium, eum distinctio laudantium. Perferendis dolor, corporis quasi? Tempore quod molestiae quis cumque pariatur dolore vel sit, fugit delectus quasi reprehenderit officia voluptate incidunt, culpa odit impedit qui dolorum fugiat. Quidem possimus reprehenderit, quae recusandae voluptatibus magnam!</p>
-					<p>Ratione facilis quod laborum eaque illo dolore blanditiis nobis dicta voluptatem fugit optio, eveniet non dolor quia delectus, sint, dignissimos atque porro consequuntur unde. Soluta ex necessitatibus delectus saepe aliquam, culpa officiis doloremque, ipsa facere hic, voluptatem accusantium veniam, quasi! Explicabo accusantium sint, corporis consequuntur fugit ipsam, dolorum excepturi adipisci.</p>
-				</div>
-			</div-->
 			<div class="row">
 				<div class="col-md-6" style="text-align:center">
-								 <img src="images/andres.png" style="padding-bottom: 30px;">
+								 <img src="images/andres.png" style="padding-bottom: 30px;    width: 100%;">
 								 <h3 style="line-height:0">Andrés Galarza</h3>
 								 <h4 style="line-height:0">Director UX Specialist. Back-End</h4>
 								 <p style="line-height:0">@andres</p>
 				</div>
 								<div class="col-md-6" style="text-align:center">
-								<img src="images/lau.png" style="padding-bottom: 30px;">
+								<img src="images/lau.png" style="padding-bottom: 30px;    width: 100%;">
 							 	<h3 style="line-height:0">Laura Medina</h3>
 							 	<h4 style="line-height:0">Art. UI Design. Markup.</h4>
 							 	<p style="line-height:0">@laura</p>

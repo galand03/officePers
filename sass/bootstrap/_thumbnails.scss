@@ -9,7 +9,7 @@
   padding: $thumbnail-padding;
   margin-bottom: $line-height-computed;
   line-height: $line-height-base;
-  background-color: $thumbnail-bg;
+  background-color: #ccc;
   border: 1px solid $thumbnail-border;
   border-radius: $thumbnail-border-radius;
   @include transition(border .2s ease-in-out);

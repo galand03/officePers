@@ -1297,4 +1297,52 @@ form label {
   opacity: 0;
 }
 
+.tecnologia{
+
+  width: 180px;
+  height: 180px;
+}
+
+.carousel {
+    margin-bottom: 0;
+    padding: 0 40px 30px 40px;
+}
+/* The controlsy */
+.carousel-control {
+  left: -12px;
+    height: 45px;
+  width: 40px;
+    background: none repeat scroll 0 0 #222222;
+    border: 4px solid #FFFFFF;
+    border-radius: 23px 23px 23px 23px;
+    margin-top: 80px;
+}
+.carousel-control.right {
+  right: -12px;
+}
+/* The indicators */
+.carousel-indicators {
+  right: 50%;
+  top: auto;
+  bottom: -10px;
+  margin-right: -19px;
+}
+/* The colour of the indicators */
+.carousel-indicators li {
+  background: #cecece;
+}
+.carousel-indicators .active {
+background: #428bca;
+}
+.thumbnail{
+  background-color: rgba(255, 255, 255, 0.15) !important;
+}
+a.thumbnail:hover{
+  border-color:#ade762;
+  background-color:#ade762 !important;
+}
+
+a.thumbnail:focus, a.thumbnail.active{
+  border-color:transparent  !important;
+}
 /*# sourceMappingURL=style.css.map */
