@@ -77,7 +77,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::selection {
   color: #fff;
-  background: #f38181;
+  background: #ade762;
 }
 
 .gtco-nav {
@@ -1442,4 +1442,48 @@ color:#C0B9CD;
       margin: 0 auto;
       width: 80%;
   }
+}
+.social_2
+{
+  padding: 2.5em 0em;
+}
+.social_2 ul li:first-child, ol li:first-child {
+  margin-top: 0px;
+  margin-left: 0;
+}
+.social_2 li {
+  background: none;
+  margin-right:1em;
+  display: inline-block;
+}
+.social_2 li  a span
+{
+  height:42px;
+  width:42px;
+  display: block;
+  background: url(../images/spriteimg.png);
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -ms-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+li.facebook a span {
+  background-position:-8px -54px;
+}
+li.facebook a span:hover {
+  opacity:0.8;
+}
+
+li.twitter a span {
+  background-position:-108px -54px ;
+}
+li.twitter a span:hover {
+  opacity:0.8;
+}
+li.google a span {
+  background-position: -59px -54px;
+}
+li.google a span:hover {
+  opacity:0.8;
 }

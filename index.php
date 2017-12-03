@@ -76,7 +76,15 @@
 						<!-- <li><a href="http://freehtml5.co/" class="external">External</a></li> -->
 					</ul>
 				</div>
-
+				<div class="col-md-12" style="margin-top: -30px;">
+					<p class="pull-right">
+						</p><ul class="gtco-social-icons pull-right">
+							<li><a href="https://www.facebook.com/pages/Office-GreenSoft/102208076585849?ref=hl" target="_blank"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://twitter.com/OfficeGreenSoft" target="_blank"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://plus.google.com/113758308186225181089" target="_blank"><i class="icon-google"></i></a></li>
+						</ul>
+					<p></p>
+				</div>
 			</div>
 			
 		</div>
@@ -107,7 +115,7 @@
 					<p class="sub">En Office GreenSoft buscamos brindar un servicio de excelencia acorde a las expectativas de nuestros clientes, ofreciendo un 
 					analisis personalizado que permita conocer sus reales necesidades y satisfacerlas en tiempo oportuno. Se buscan para ello soluciones prácticas, 
 					viables y al menor costo posible.</p>
-					<p class="subtle-text animate-box" data-animate-effect="fadeIn">Bienvenido</p>
+					
 				</div>
 			</div>
 			<div class="row">
@@ -117,13 +125,14 @@
 					</div>
 				</div>
 				<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-					<h2 class="heading-colored">Excelencia y honestidad</h2>
-					<p>Somos un grupo de entusiastas por la tecnolog&iacute;a, enfocados en los desafios y en la responsabilidad. 
-					Nuestro compromiso consiste desarrollar relaciones a largo plazo, buscando soluciones costo-eficientes para nuestros clientes destinados a 
-					alcanzar un alto nivel de eficacia en los procesos y ofreciendo una periódica y completa información  del estado de sus funcionalidades. Para ello 
-					consideramos esencial el desarrollo humano y profesional permanente de nuestro equipo, la actualización constante de los recursos tecnológicos y la 
-					mejora continua de los procesos.
-
+					<h2 class="heading-colored">Nuestra Historia</h2>
+					<p>Luego de m&aacute;s de 10 años en el rubro de sistemas inform&aacute;ticos, decisidimos fundar Office GreenSoft, con la intensi&oacute;n 
+					de brindar servicios de desarrollo de software y potenciar sus negocios con herramientas de &uacute;ltima generaci&oacute;n.
+					Nos especializamos en entender la necesidad de cada uno de nuestro clientes y brindarles soluciones simples y r&aacute;pidas, confeccionando
+					aplicaciones webs innovadoras, escalables y adaptativas.
+					Presentamos nuestras capacidades honestamente. Solo prometemos lo que podemos cumplir. Entregamos cambios positivos y tangibles, no 
+					simplemente presentaciones o ideas.
+					Nuestro servicio es integral desde el relevamiento inicial hasta la implementación del proyecto.
 					<!--p><a href="#" class="read-more">Read more <i class="icon-chevron-right"></i></a></p-->
 				</div>
 			</div>
@@ -134,7 +143,7 @@
 		<div class="container">
 			<div class="row row-pb-md">
 				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">
-					<h1>Metodolog&iacute;a</h1>
+					<h1>Metodolog&iacute;a de trabajo</h1>
 
 				</div>
 			</div>
@@ -198,6 +207,7 @@
 
 			<div class="container">
     			<div class="row">
+    				<h2 style="    text-align: center;">Tecnolog&iacute;as utilizadas</h2>
 					<div class="col-md-12">
 		                <div id="Carousel" class="carousel slide">
 
@@ -223,6 +233,14 @@
 		                	</div><!--.row-->
 		                </div><!--.item-->
 		                 
+		                <div class="item">
+		                	<div class="row">
+		                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="images/git.png" class="tecnologia"></a></div>
+		                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="images/photoshop.png" class="tecnologia"></a></div>
+		                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="images/js.png" class="tecnologia"></a></div>
+		                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="images/bootstrap.png" class="tecnologia"></a></div>
+		                	</div><!--.row-->
+		                </div><!--.item-->		                 
 		                 
 		                </div><!--.carousel-inner-->
 		                  <a data-slide="prev" href="#Carousel" class="left carousel-control">‹</a>
@@ -235,13 +253,15 @@
 		</div>
 	</section>
 
-	<section id="gtco-our-team" data-section="our-team">
+	<section id="gtco-our-team" data-section="our-team" style="padding-bottom:0px">
 		<div class="container" style="padding-bottom: 50px;">
 			<div>
 				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">
 					<h1>Nuestro Equipo</h1>
+					<p>Somos un grupo de entusiastas por la tecnología, enfocados en los desafios y en la responsabilidad. Para ello consideramos esencial 
+					el desarrollo humano y profesional permanente de nuestro equipo, la actualización constante de los recursos tecnológicos y la mejora 
+					continua de los procesos.</p>
 					<p class="sub"></p>
-					<p class="subtle-text animate-box" data-animate-effect="fadeIn">Equipo</p>
 				</div>
 			</div>
 			<div class="row">
@@ -272,7 +292,7 @@
 				   <article style="position: absolute; width:64%; opacity: 0;"> 
 					   	
 						<div class="cont span_2_of_3">
-						    <h4>Inspiración</h4>
+						    <h4>Motivación</h4>
 							<p>La creatividad y la simplificación se complementan enormemente. Es preciso hallar nuevas formas alternativas de hacer las cosas. Este pensamiento de diseño exige creatividad.</p>
 						  	<span><a href="#">Bono</a></span>			 
 						</div>
@@ -293,13 +313,12 @@
 			<!--text-slider-->
 	</section>
 
-	<section id="gtco-contact" data-section="contact">
+	<section id="gtco-contact" style="background-image: url(images/cbg.png);" data-section="contact" data-stellar-background-ratio="0.5">
 		<div class="container">
 			<div class="row row-pb-md" style="padding-bottom:0px !important">
 				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">
-					<h1>Contáctenos</h1>
-					<p class="sub" style="border-color:#69c6b4">Póngase en contacto con nosotros!</p>
-					<p class="subtle-text animate-box" data-animate-effect="fadeIn">Contactenos</p>
+					<h1 style="color:#fff">Contáctenos</h1>
+					<p class="sub" style="border-color:#69c6b4;color:#e3dfdf">Envianos un correo electrónico!</p>
 				</div>
 			</div>
 			<div class="row">
@@ -323,38 +342,21 @@
 					</form>
 				</div>
 				<div class="col-md-4 col-md-pull-6 animate-box">
-					<div class="gtco-contact-info">
+					<div class="gtco-contact-info social_2">
 						<ul>
 							<li class="phone"><a href="tel://5491166110075">+54 9 11 6611 0075 / +54 9 11 6758 9531</a></li>
 							<li class="email"><a href="mailto:officegreensoft@gmail.com">officegreensoft@gmail.com</a></li>
 							<li class="url"><a href="#">https://officegreensoft.herokuapp.com</a></li>
+							<li class="facebook" style="padding-left: 20px;"><a href="https://www.facebook.com/pages/Office-GreenSoft/102208076585849?ref=hl" target="_blank"><span> </span></a></li>
+					    	<li class="twitter" style="padding-left: 20px;"><a href="https://twitter.com/OfficeGreenSoft" target="_blank"><span> </span></a></li>	 	
+							<li class="google" style="padding-left: 20px;"><a href="https://plus.google.com/u/0/b/113758308186225181089/113758308186225181089/posts" target="_blank"><span> </span></a></li>
 						</ul>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-	
-	<footer id="gtco-footer" role="contentinfo">
-		<div class="container">
-			
-			<div class="row copyright">
-				<div class="col-md-12">
-					<!--p class="pull-left">
-						<small class="block">&copy; 2016 Free HTML5. All Rights Reserved.</small> 
-						<small class="block">Designed by <a href="http://freehtml5.co/" target="_blank">FreeHTML5.co</a> Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></small>
-					</p-->
-					<p class="pull-right">
-						<ul class="gtco-social-icons pull-right" style="margin-right: 50px;">
-							<li><a href="https://twitter.com/officegreensoft" target="_blank"><i class="icon-twitter"></i></a></li>
-							<li><a href="https://www.facebook.com/Office-GreenSoft-102208076585849/" target="_blank"><i class="icon-facebook"></i></a></li>
-						</ul>
-					</p>
-				</div>
-			</div>
 
-		</div>
-	</footer>
 	</div>
 
 	<div class="gototop js-top">
