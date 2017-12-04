@@ -154,7 +154,7 @@
 							<img src="images/interaccion.png" style="width:43px; height=43px"  alt="Office GreenSoft">
 						</div>
 						<div class="gtco-copy">
-							<h3>Interacci&oacute;n con el usuario</h3>
+							<h3>1 - Interacci&oacute;n con el usuario</h3>
 							<p>Extracci&oacute;n de informaci&oacute;n con el/los usuarios claves del sistema.</p>
 						</div>
 					</div>
@@ -164,7 +164,7 @@
 							<img src="images/funcional.png" style="width:43px; height=43px" alt="Office GreenSoft">
 						</div>
 						<div class="gtco-copy">
-							<h3>Analisis</h3>
+							<h3>2 - Analisis</h3>
 							<p>Se procesa la informaci&oacute;n y se elabora un plan de trabajo en conjunto con el cliente.</p>
 						</div>
 					</div>
@@ -174,7 +174,7 @@
 							<img src="images/desa.png" style="width:43px; height=43px" alt="Office GreenSoft">
 						</div>
 						<div class="gtco-copy">
-							<h3>Diseño / maquetado</h3>
+							<h3>3 - Diseño / maquetado</h3>
 							<p>Confecci&oacute;n de bocetos preliminares para alinear espectativas con el cliente.</p>
 						</div>
 					</div>
@@ -185,7 +185,7 @@
 							<img src="images/desa1.png" style="width:43px; height=43px"  alt="Office GreenSoft">
 						</div>
 						<div class="gtco-copy">
-							<h3>Desarrollo</h3>
+							<h3>4 - Desarrollo</h3>
 							<p>Se codifica el sistema. Etapa tecnica generadora de funcionalidades</p>
 						</div>
 					</div>					
@@ -194,7 +194,7 @@
 							<img src="images/testing.png" style="width:43px; height=43px"  alt="Office GreenSoft">
 						</div>
 						<div class="gtco-copy">
-							<h3>Testing</h3>
+							<h3>5 - Testing</h3>
 							<p>Realizamos pruebas unitarias e integrales con el sistema, que garantizan la calidad de cada entregable.</p>
 						</div>
 					</div>
@@ -204,7 +204,7 @@
 							<img src="images/implementacion.png" style="width:43px; height=43px"  alt="Office GreenSoft">
 						</div>
 						<div class="gtco-copy">
-							<h3>Implementaci&oacute;n</h3>
+							<h3>6 - Implementaci&oacute;n</h3>
 							<p>Software funcionando, con el entorno y el apoyo que necesiten para la ejecuci&oacute;n del trabajo. </p>
 						</div>
 					</div>
