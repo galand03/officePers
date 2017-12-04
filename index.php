@@ -149,55 +149,62 @@
 			</div>
 			<div class="row">
 				<div class="col-md-6">
-
+					<div class="gtco-practice-area-item animate-box">
+						<div class="gtco-icon">
+							<img src="images/interaccion.png" style="width:43px; height=43px"  alt="Office GreenSoft">
+						</div>
+						<div class="gtco-copy">
+							<h3>Interacci&oacute;n con el usuario</h3>
+							<p>Extracci&oacute;n de informaci&oacute;n con el/los usuarios claves del sistema.</p>
+						</div>
+					</div>
 
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
 							<img src="images/funcional.png" style="width:43px; height=43px" alt="Office GreenSoft">
 						</div>
 						<div class="gtco-copy">
-							<h3>Analisis funcional</h3>
-							<p>Reuniones periodicas relevando la necesidad del cliente.</p>
+							<h3>Analisis</h3>
+							<p>Se procesa la informaci&oacute;n y se elabora un plan de trabajo en conjunto con el cliente.</p>
 						</div>
 					</div>
 
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
-							<img src="images/entregable.png" style="width:43px; height=43px"  alt="Office GreenSoft">
+							<img src="images/desa.png" style="width:43px; height=43px" alt="Office GreenSoft">
 						</div>
 						<div class="gtco-copy">
-							<h3>Avance / Entregables</h3>
-							<p>Nuestra principal prioridad es satisfacerlos a través de la entrega temprana y continua de software con valor.</p>
-						</div>
-					</div>
-					<div class="gtco-practice-area-item animate-box">
-						<div class="gtco-icon">
-							<img src="images/interaccion.png" style="width:43px; height=43px"  alt="Office GreenSoft">
-						</div>
-						<div class="gtco-copy">
-							<h3>Interacci&oacute;n con el cliente</h3>
-							<p>Debe generarse un c&iacute;rculo de comunicaci&oacute;n clara y de respeto, para poder obtener mayores beneficios en la extracci&oacute;n de informaci&oacute;n.</p>
+							<h3>Diseño / maquetado</h3>
+							<p>Confecci&oacute;n de bocetos preliminares para alinear espectativas con el cliente.</p>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-6">
-					
+					<div class="gtco-practice-area-item animate-box">
+						<div class="gtco-icon">
+							<img src="images/desa1.png" style="width:43px; height=43px"  alt="Office GreenSoft">
+						</div>
+						<div class="gtco-copy">
+							<h3>Desarrollo</h3>
+							<p>Se codifica el sistema. Etapa tecnica generadora de funcionalidades</p>
+						</div>
+					</div>					
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
 							<img src="images/testing.png" style="width:43px; height=43px"  alt="Office GreenSoft">
 						</div>
 						<div class="gtco-copy">
 							<h3>Testing</h3>
-							<p>A trav&eacute;s de los avances peri&oacute;dicos, surge interacci&oacute;n con el sistemas y los usuarios por lo que se detectan los errores de forma inmediata.</p>
+							<p>Realizamos pruebas unitarias e integrales con el sistema, que garantizan la calidad de cada entregable.</p>
 						</div>
 					</div>
 
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
-							<img src="images/desa.png" style="width:43px; height=43px"  alt="Office GreenSoft">
+							<img src="images/implementacion.png" style="width:43px; height=43px"  alt="Office GreenSoft">
 						</div>
 						<div class="gtco-copy">
-							<h3>Resultados finales</h3>
+							<h3>Implementaci&oacute;n</h3>
 							<p>Software funcionando, con el entorno y el apoyo que necesiten para la ejecuci&oacute;n del trabajo. </p>
 						</div>
 					</div>
