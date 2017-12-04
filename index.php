@@ -125,7 +125,7 @@
 					</div>
 				</div>
 				<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-					<h2 class="heading-colored">Nuestra Historia</h2>
+					<h2 class="heading-colored">Experiencia y confiabilidad</h2>
 					<p>Luego de m&aacute;s de 10 años en el rubro de sistemas inform&aacute;ticos, decisidimos fundar Office GreenSoft, con la intensi&oacute;n 
 					de brindar servicios de desarrollo de software y potenciar sus negocios con herramientas de &uacute;ltima generaci&oacute;n.
 					Nos especializamos en entender la necesidad de cada uno de nuestro clientes y brindarles soluciones simples y r&aacute;pidas, confeccionando
