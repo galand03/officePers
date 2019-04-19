@@ -126,7 +126,7 @@
 				</div>
 				<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 					<h2 class="heading-colored">Experiencia y confiabilidad</h2>
-					<p>Luego de m&aacute;s de 10 años en el rubro de sistemas inform&aacute;ticos, decisidimos fundar Office GreenSoft, con la intensi&oacute;n 
+					<p>Luego de m&aacute;s de 10 años en el rubro de sistemas inform&aacute;ticos, decidimos fundar Office GreenSoft, con la intensi&oacute;n 
 					de brindar servicios de desarrollo de software y potenciar sus negocios con herramientas de &uacute;ltima generaci&oacute;n.
 					Nos especializamos en entender la necesidad de cada uno de nuestro clientes y brindarles soluciones simples y r&aacute;pidas, confeccionando
 					aplicaciones webs innovadoras, escalables y adaptativas.
@@ -281,12 +281,12 @@
 					 <h4 style="line-height:0">Director UX. Back-End</h4>
 					 <p style="line-height:0">@andres</p>
 				</div>
-				<div class="col-md-3" style="text-align:center">
+				<!--div class="col-md-3" style="text-align:center">
 					<img src="images/lau.png" style="padding-bottom: 30px;    width: 100%;">
 				 	<h3 style="line-height:0">Laura Medina</h3>
 				 	<h4 style="line-height:0">Analista Funcional. QA</h4>
 				 	<p style="line-height:0">@laura</p>
-				</div>
+				</div-->
 				<div class="col-md-3" style="text-align:center">
 
 				</div>				
