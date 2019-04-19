@@ -302,13 +302,13 @@
 			
 			<div class="wmuSlider example1">
 			 	<div class="wrap">
-				   <article style="position: absolute; width:64%; opacity: 0;"> 
+				   <!--article style="position: absolute; width:64%; opacity: 0;"> 
 						<div class="cont span_2_of_3">
 						    <h4>Motivación</h4>
 							<p>La creatividad y la simplificación se complementan enormemente. Es preciso hallar nuevas formas alternativas de hacer las cosas. Este pensamiento de diseño exige creatividad.</p>
 						  	<span><a href="#">Bono</a></span>			 
 						</div>
-					</article>
+					</article-->
 					 <article style="position: absolute; width:64%; opacity: 0;"> 
 					   	<div class="cont span_2_of_3">
 							    <h4>Inspiración</h4>
