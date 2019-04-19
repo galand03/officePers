@@ -303,7 +303,6 @@
 			<div class="wmuSlider example1">
 			 	<div class="wrap">
 				   <article style="position: absolute; width:64%; opacity: 0;"> 
-					   	
 						<div class="cont span_2_of_3">
 						    <h4>Motivación</h4>
 							<p>La creatividad y la simplificación se complementan enormemente. Es preciso hallar nuevas formas alternativas de hacer las cosas. Este pensamiento de diseño exige creatividad.</p>
@@ -357,7 +356,7 @@
 				<div class="col-md-4 col-md-pull-6 animate-box">
 					<div class="gtco-contact-info social_2">
 						<ul>
-							<li class="phone"><a href="tel://5491166110075">+54 9 11 6611 0075 / +54 9 11 6758 9531</a></li>
+							<li class="phone"><a href="tel://5491166110075">+54 9 11 6611 0075</a></li>
 							<li class="email"><a href="mailto:officegreensoft@gmail.com">officegreensoft@gmail.com</a></li>
 							<li class="url"><a href="#">https://officegreensoft.herokuapp.com</a></li>
 							<li class="facebook" style="padding-left: 20px;"><a href="https://www.facebook.com/pages/Office-GreenSoft/102208076585849?ref=hl" target="_blank"><span> </span></a></li>
