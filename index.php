@@ -277,21 +277,21 @@
 				</div>
 				<div class="col-md-2" style="text-align:center">
 					 <img src="images/andres.1.jpg" style="padding-bottom: 30px;    width: 100%;">
-					 <h3 style="line-height:0">Andrés Galarza</h3>
-					 <h4 style="line-height:0">Director UX. Back-End</h4>
-					 <p style="line-height:0">@andres</p>
+					 <h4 style="line-height:0">Andrés Galarza</h4>
+					 <h5 style="line-height:0">Director UX. Back-End</h5>
+					 <p style="line-height:0"><a href="https://www.linkedin.com/in/andres-galarza-9b08a8183/">@andres<a></p>
 				</div>
 				<div class="col-md-2" style="text-align:center">
 					<img src="images/fede.jpg" style="padding-bottom: 30px;    width: 100%;">
-				 	<h3 style="line-height:0">Federico Mancusi</h3>
-				 	<h4 style="line-height:0">Especialista Full Stack</h4>
-				 	<p style="line-height:0">@fede</p>
+				 	<h4 style="line-height:0">Federico Mancuso</h4>
+				 	<h5 style="line-height:0">Especialista Full Stack</h5>
+				 	<p style="line-height:0"><a href="https://www.linkedin.com/in/federico-mancuso-9805ab47/">@fede<a></p>
 				</div>
 				<div class="col-md-2" style="text-align:center">
-					<img src="images/lau.png" style="padding-bottom: 30px;    width: 100%;">
-				 	<h3 style="line-height:0">Federico Mancusi</h3>
-				 	<h4 style="line-height:0">Especialista Full Stack</h4>
-				 	<p style="line-height:0">@fede</p>
+					<img src="images/jorge.jpg" style="padding-bottom: 30px;    width: 100%;">
+				 	<h4 style="line-height:0">Jorge Borges</h4>
+				 	<h5 style="line-height:0">Especialista Full Stack</h5>
+				 	<p style="line-height:0"><a href="https://www.linkedin.com/in/jorge-borges-aa461282/">@jorgito<a></p>
 				</div>				
 				<div class="col-md-3" style="text-align:center">
 
