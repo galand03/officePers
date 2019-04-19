@@ -227,7 +227,7 @@
 		                	  <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/net1.png" class="tecnologia"></a></div>
 		                	  <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/sqlserver1.png" class="tecnologia"></a></div>
 		                	  <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/angular1.png" class="tecnologia"></a></div>
-		                	  <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/css1.png" class="tecnologia"></a></div>
+		                	  <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/java.png" class="tecnologia"></a></div>
 		                	</div><!--.row-->
 		                </div><!--.item-->
 		                 
@@ -244,7 +244,7 @@
 		                	<div class="row">
 		                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="images/git.png" class="tecnologia"></a></div>
 		                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="images/photoshop.png" class="tecnologia"></a></div>
-		                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="images/js.png" class="tecnologia"></a></div>
+		                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="images/android.png" class="tecnologia"></a></div>
 		                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="images/bootstrap.png" class="tecnologia"></a></div>
 		                	</div><!--.row-->
 		                </div><!--.item-->		                 
