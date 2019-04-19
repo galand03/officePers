@@ -275,19 +275,19 @@
 				<div class="col-md-3" style="text-align:center">
 
 				</div>
-				<div class="col-md-3" style="text-align:center">
+				<div class="col-md-2" style="text-align:center">
 					 <img src="images/andres.1.jpg" style="padding-bottom: 30px;    width: 100%;">
 					 <h3 style="line-height:0">Andrés Galarza</h3>
 					 <h4 style="line-height:0">Director UX. Back-End</h4>
 					 <p style="line-height:0">@andres</p>
 				</div>
-				<div class="col-md-3" style="text-align:center">
+				<div class="col-md-2" style="text-align:center">
 					<img src="images/fede.jpg" style="padding-bottom: 30px;    width: 100%;">
 				 	<h3 style="line-height:0">Federico Mancusi</h3>
 				 	<h4 style="line-height:0">Especialista Full Stack</h4>
 				 	<p style="line-height:0">@fede</p>
 				</div>
-				<div class="col-md-3" style="text-align:center">
+				<div class="col-md-2" style="text-align:center">
 					<img src="images/lau.png" style="padding-bottom: 30px;    width: 100%;">
 				 	<h3 style="line-height:0">Federico Mancusi</h3>
 				 	<h4 style="line-height:0">Especialista Full Stack</h4>
